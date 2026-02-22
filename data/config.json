@@ -1,0 +1,30 @@
+{
+    "display": {
+        "screen_width": 1920,
+        "screen_height": 1080,
+        "fullscreen": true
+    },
+    "hardware": {
+        "arduino_port": "/dev/ttyACM0"
+    },
+    "network": {
+        "camera_ip": "192.168.1.169",
+        "device_ip": "192.168.1.69",
+        "artnet_network": "2.0.0.69"
+    },
+    "qlc": {
+        "qlc_folder_path": "ressources/qlc_files",
+        "qlc_file_path": "ressources/qlc_files/default.qxw"
+    },
+    "paths": {
+        "data_file": "data/measurements.csv",
+        "plan_dir": "ressources/plans",
+        "default_img": "ressources/img/unicorn.png",
+        "head_img": "ressources/img/unicorn.png"
+    },
+    "camera": {
+        "rtsp_stream": "/h264Preview_01_main",
+        "onvif_port": 8000,
+        "rtsp_user": "GlamCam"
+    }
+}

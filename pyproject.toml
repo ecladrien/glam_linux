@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "glam"
+version = "0.1.0"
+description = "GLAM rewrite prototype"
+authors = [ { name = "Glam", email = "dev@example.com" } ]
+readme = "README.md"
+requires-python = ">=3.9"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"
+
+[tool.pytest]
+addopts = ["-q"]

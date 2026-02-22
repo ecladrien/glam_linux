@@ -1,0 +1,1579 @@
+# Resource object code (Python 3)
+# Created by: object code
+# Created by: The Resource Compiler for Qt version 6.10.2
+# WARNING! All changes made in this file will be lost!
+
+from PySide6 import QtCore
+
+qt_resource_data = b"\
+\x00\x00\x01\xa8\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-file-plus\x22><\
+path d=\x22M14 2H6a\
+2 2 0 0 0-2 2v16\
+a2 2 0 0 0 2 2h1\
+2a2 2 0 0 0 2-2V\
+8z\x22></path><poly\
+line points=\x2214 \
+2 14 8 20 8\x22></p\
+olyline><line x1\
+=\x2212\x22 y1=\x2218\x22 x2\
+=\x2212\x22 y2=\x2212\x22></\
+line><line x1=\x229\
+\x22 y1=\x2215\x22 x2=\x2215\
+\x22 y2=\x2215\x22></line\
+></svg>\
+\x00\x00\x01\x8b\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-refresh-cw\
+\x22><polyline poin\
+ts=\x2223 4 23 10 1\
+7 10\x22></polyline\
+><polyline point\
+s=\x221 20 1 14 7 1\
+4\x22></polyline><p\
+ath d=\x22M3.51 9a9\
+ 9 0 0 1 14.85-3\
+.36L23 10M1 14l4\
+.64 4.36A9 9 0 0\
+ 0 20.49 15\x22></p\
+ath></svg>\
+\x00\x00\x01E\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-home\x22><path \
+d=\x22M3 9l9-7 9 7v\
+11a2 2 0 0 1-2 2\
+H5a2 2 0 0 1-2-2\
+z\x22></path><polyl\
+ine points=\x229 22\
+ 9 12 15 12 15 2\
+2\x22></polyline></\
+svg>\
+\x00\x00\x01\x8c\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-wifi\x22><pat\
+h d=\x22M5 12.55a11\
+ 11 0 0 1 14.08 \
+0\x22></path><path \
+d=\x22M1.42 9a16 16\
+ 0 0 1 21.16 0\x22>\
+</path><path d=\x22\
+M8.53 16.11a6 6 \
+0 0 1 6.95 0\x22></\
+path><line x1=\x221\
+2\x22 y1=\x2220\x22 x2=\x221\
+2.01\x22 y2=\x2220\x22></\
+line></svg>\
+\x00\x00\x01{\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-tool\x22><path \
+d=\x22M14.7 6.3a1 1\
+ 0 0 0 0 1.4l1.6\
+ 1.6a1 1 0 0 0 1\
+.4 0l3.77-3.77a6\
+ 6 0 0 1-7.94 7.\
+94l-6.91 6.91a2.\
+12 2.12 0 0 1-3-\
+3l6.91-6.91a6 6 \
+0 0 1 7.94-7.94l\
+-3.76 3.76z\x22></p\
+ath></svg>\
+\x00\x00\x01\x02\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-play\x22><pol\
+ygon points=\x225 3\
+ 19 12 5 21 5 3\x22\
+></polygon></svg\
+>\
+\x00\x00\x01)\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-plus\x22><line \
+x1=\x2212\x22 y1=\x225\x22 x\
+2=\x2212\x22 y2=\x2219\x22><\
+/line><line x1=\x22\
+5\x22 y1=\x2212\x22 x2=\x221\
+9\x22 y2=\x2212\x22></lin\
+e></svg>\
+\x00\x00\x03\xec\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-settings\x22><c\
+ircle cx=\x2212\x22 cy\
+=\x2212\x22 r=\x223\x22></ci\
+rcle><path d=\x22M1\
+9.4 15a1.65 1.65\
+ 0 0 0 .33 1.82l\
+.06.06a2 2 0 0 1\
+ 0 2.83 2 2 0 0 \
+1-2.83 0l-.06-.0\
+6a1.65 1.65 0 0 \
+0-1.82-.33 1.65 \
+1.65 0 0 0-1 1.5\
+1V21a2 2 0 0 1-2\
+ 2 2 2 0 0 1-2-2\
+v-.09A1.65 1.65 \
+0 0 0 9 19.4a1.6\
+5 1.65 0 0 0-1.8\
+2.33l-.06.06a2 2\
+ 0 0 1-2.83 0 2 \
+2 0 0 1 0-2.83l.\
+06-.06a1.65 1.65\
+ 0 0 0 .33-1.82 \
+1.65 1.65 0 0 0-\
+1.51-1H3a2 2 0 0\
+ 1-2-2 2 2 0 0 1\
+ 2-2h.09A1.65 1.\
+65 0 0 0 4.6 9a1\
+.65 1.65 0 0 0-.\
+33-1.82l-.06-.06\
+a2 2 0 0 1 0-2.8\
+3 2 2 0 0 1 2.83\
+ 0l.06.06a1.65 1\
+.65 0 0 0 1.82.3\
+3H9a1.65 1.65 0 \
+0 0 1-1.51V3a2 2\
+ 0 0 1 2-2 2 2 0\
+ 0 1 2 2v.09a1.6\
+5 1.65 0 0 0 1 1\
+.51 1.65 1.65 0 \
+0 0 1.82-.33l.06\
+-.06a2 2 0 0 1 2\
+.83 0 2 2 0 0 1 \
+0 2.83l-.06.06a1\
+.65 1.65 0 0 0-.\
+33 1.82V9a1.65 1\
+.65 0 0 0 1.51 1\
+H21a2 2 0 0 1 2 \
+2 2 2 0 0 1-2 2h\
+-.09a1.65 1.65 0\
+ 0 0-1.51 1z\x22></\
+path></svg>\
+\x00\x00\x01+\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-plus\x22><lin\
+e x1=\x2212\x22 y1=\x225\x22\
+ x2=\x2212\x22 y2=\x2219\x22\
+></line><line x1\
+=\x225\x22 y1=\x2212\x22 x2=\
+\x2219\x22 y2=\x2212\x22></l\
+ine></svg>\
+\x00\x00\x01}\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-tool\x22><pat\
+h d=\x22M14.7 6.3a1\
+ 1 0 0 0 0 1.4l1\
+.6 1.6a1 1 0 0 0\
+ 1.4 0l3.77-3.77\
+a6 6 0 0 1-7.94 \
+7.94l-6.91 6.91a\
+2.12 2.12 0 0 1-\
+3-3l6.91-6.91a6 \
+6 0 0 1 7.94-7.9\
+4l-3.76 3.76z\x22><\
+/path></svg>\
+\x00\x00\x01\x00\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-play\x22><polyg\
+on points=\x225 3 1\
+9 12 5 21 5 3\x22><\
+/polygon></svg>\
+\x00\x00\x01d\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-archive\x22><\
+polyline points=\
+\x2221 8 21 21 3 21\
+ 3 8\x22></polyline\
+><rect x=\x221\x22 y=\x22\
+3\x22 width=\x2222\x22 he\
+ight=\x225\x22></rect>\
+<line x1=\x2210\x22 y1\
+=\x2212\x22 x2=\x2214\x22 y2\
+=\x2212\x22></line></s\
+vg>\
+\x00\x00\x01\x00\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-minus\x22><li\
+ne x1=\x225\x22 y1=\x2212\
+\x22 x2=\x2219\x22 y2=\x2212\
+\x22></line></svg>\
+\x00\x00\x01-\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-power\x22><path\
+ d=\x22M18.36 6.64a\
+9 9 0 1 1-12.73 \
+0\x22></path><line \
+x1=\x2212\x22 y1=\x222\x22 x\
+2=\x2212\x22 y2=\x2212\x22><\
+/line></svg>\
+\x00\x00\x01d\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-folder-min\
+us\x22><path d=\x22M22\
+ 19a2 2 0 0 1-2 \
+2H4a2 2 0 0 1-2-\
+2V5a2 2 0 0 1 2-\
+2h5l2 3h9a2 2 0 \
+0 1 2 2z\x22></path\
+><line x1=\x229\x22 y1\
+=\x2214\x22 x2=\x2215\x22 y2\
+=\x2214\x22></line></s\
+vg>\
+\x00\x00\x01N\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-book-open\x22\
+><path d=\x22M2 3h6\
+a4 4 0 0 1 4 4v1\
+4a3 3 0 0 0-3-3H\
+2z\x22></path><path\
+ d=\x22M22 3h-6a4 4\
+ 0 0 0-4 4v14a3 \
+3 0 0 1 3-3h7z\x22>\
+</path></svg>\
+\x00\x00\x02^\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-sliders\x22><\
+line x1=\x224\x22 y1=\x22\
+21\x22 x2=\x224\x22 y2=\x221\
+4\x22></line><line \
+x1=\x224\x22 y1=\x2210\x22 x\
+2=\x224\x22 y2=\x223\x22></l\
+ine><line x1=\x2212\
+\x22 y1=\x2221\x22 x2=\x2212\
+\x22 y2=\x2212\x22></line\
+><line x1=\x2212\x22 y\
+1=\x228\x22 x2=\x2212\x22 y2\
+=\x223\x22></line><lin\
+e x1=\x2220\x22 y1=\x2221\
+\x22 x2=\x2220\x22 y2=\x2216\
+\x22></line><line x\
+1=\x2220\x22 y1=\x2212\x22 x\
+2=\x2220\x22 y2=\x223\x22></\
+line><line x1=\x221\
+\x22 y1=\x2214\x22 x2=\x227\x22\
+ y2=\x2214\x22></line>\
+<line x1=\x229\x22 y1=\
+\x228\x22 x2=\x2215\x22 y2=\x22\
+8\x22></line><line \
+x1=\x2217\x22 y1=\x2216\x22 \
+x2=\x2223\x22 y2=\x2216\x22>\
+</line></svg>\
+\x00\x00\x024\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-wifi-off\x22>\
+<line x1=\x221\x22 y1=\
+\x221\x22 x2=\x2223\x22 y2=\x22\
+23\x22></line><path\
+ d=\x22M16.72 11.06\
+A10.94 10.94 0 0\
+ 1 19 12.55\x22></p\
+ath><path d=\x22M5 \
+12.55a10.94 10.9\
+4 0 0 1 5.17-2.3\
+9\x22></path><path \
+d=\x22M10.71 5.05A1\
+6 16 0 0 1 22.58\
+ 9\x22></path><path\
+ d=\x22M1.42 9a15.9\
+1 15.91 0 0 1 4.\
+7-2.88\x22></path><\
+path d=\x22M8.53 16\
+.11a6 6 0 0 1 6.\
+95 0\x22></path><li\
+ne x1=\x2212\x22 y1=\x222\
+0\x22 x2=\x2212.01\x22 y2\
+=\x2220\x22></line></s\
+vg>\
+\x00\x00\x01b\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-folder-minus\
+\x22><path d=\x22M22 1\
+9a2 2 0 0 1-2 2H\
+4a2 2 0 0 1-2-2V\
+5a2 2 0 0 1 2-2h\
+5l2 3h9a2 2 0 0 \
+1 2 2z\x22></path><\
+line x1=\x229\x22 y1=\x22\
+14\x22 x2=\x2215\x22 y2=\x22\
+14\x22></line></svg\
+>\
+\x00\x00\x01\xaa\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-file-plus\x22\
+><path d=\x22M14 2H\
+6a2 2 0 0 0-2 2v\
+16a2 2 0 0 0 2 2\
+h12a2 2 0 0 0 2-\
+2V8z\x22></path><po\
+lyline points=\x221\
+4 2 14 8 20 8\x22><\
+/polyline><line \
+x1=\x2212\x22 y1=\x2218\x22 \
+x2=\x2212\x22 y2=\x2212\x22>\
+</line><line x1=\
+\x229\x22 y1=\x2215\x22 x2=\x22\
+15\x22 y2=\x2215\x22></li\
+ne></svg>\
+\x00\x00\x01\x89\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-maximize-2\x22>\
+<polyline points\
+=\x2215 3 21 3 21 9\
+\x22></polyline><po\
+lyline points=\x229\
+ 21 3 21 3 15\x22><\
+/polyline><line \
+x1=\x2221\x22 y1=\x223\x22 x\
+2=\x2214\x22 y2=\x2210\x22><\
+/line><line x1=\x22\
+3\x22 y1=\x2221\x22 x2=\x221\
+0\x22 y2=\x2214\x22></lin\
+e></svg>\
+\x00\x00\x01b\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-archive\x22><po\
+lyline points=\x222\
+1 8 21 21 3 21 3\
+ 8\x22></polyline><\
+rect x=\x221\x22 y=\x223\x22\
+ width=\x2222\x22 heig\
+ht=\x225\x22></rect><l\
+ine x1=\x2210\x22 y1=\x22\
+12\x22 x2=\x2214\x22 y2=\x22\
+12\x22></line></svg\
+>\
+\x00\x00\x01\x13\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-zap\x22><polygo\
+n points=\x2213 2 3\
+ 14 12 14 11 22 \
+21 10 12 10 13 2\
+\x22></polygon></sv\
+g>\
+\x00\x00\x01\x8e\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-folder-plus\x22\
+><path d=\x22M22 19\
+a2 2 0 0 1-2 2H4\
+a2 2 0 0 1-2-2V5\
+a2 2 0 0 1 2-2h5\
+l2 3h9a2 2 0 0 1\
+ 2 2z\x22></path><l\
+ine x1=\x2212\x22 y1=\x22\
+11\x22 x2=\x2212\x22 y2=\x22\
+17\x22></line><line\
+ x1=\x229\x22 y1=\x2214\x22 \
+x2=\x2215\x22 y2=\x2214\x22>\
+</line></svg>\
+\x00\x00\x01-\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-search\x22><cir\
+cle cx=\x2211\x22 cy=\x22\
+11\x22 r=\x228\x22></circ\
+le><line x1=\x2221\x22\
+ y1=\x2221\x22 x2=\x2216.\
+65\x22 y2=\x2216.65\x22><\
+/line></svg>\
+\x00\x00\x00\xfe\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-minus\x22><line\
+ x1=\x225\x22 y1=\x2212\x22 \
+x2=\x2219\x22 y2=\x2212\x22>\
+</line></svg>\
+\x00\x00\x01\x81\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-save\x22><path \
+d=\x22M19 21H5a2 2 \
+0 0 1-2-2V5a2 2 \
+0 0 1 2-2h11l5 5\
+v11a2 2 0 0 1-2 \
+2z\x22></path><poly\
+line points=\x2217 \
+21 17 13 7 13 7 \
+21\x22></polyline><\
+polyline points=\
+\x227 3 7 8 15 8\x22><\
+/polyline></svg>\
+\
+\x00\x00\x01\x83\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-save\x22><pat\
+h d=\x22M19 21H5a2 \
+2 0 0 1-2-2V5a2 \
+2 0 0 1 2-2h11l5\
+ 5v11a2 2 0 0 1-\
+2 2z\x22></path><po\
+lyline points=\x221\
+7 21 17 13 7 13 \
+7 21\x22></polyline\
+><polyline point\
+s=\x227 3 7 8 15 8\x22\
+></polyline></sv\
+g>\
+\x00\x00\x022\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-wifi-off\x22><l\
+ine x1=\x221\x22 y1=\x221\
+\x22 x2=\x2223\x22 y2=\x2223\
+\x22></line><path d\
+=\x22M16.72 11.06A1\
+0.94 10.94 0 0 1\
+ 19 12.55\x22></pat\
+h><path d=\x22M5 12\
+.55a10.94 10.94 \
+0 0 1 5.17-2.39\x22\
+></path><path d=\
+\x22M10.71 5.05A16 \
+16 0 0 1 22.58 9\
+\x22></path><path d\
+=\x22M1.42 9a15.91 \
+15.91 0 0 1 4.7-\
+2.88\x22></path><pa\
+th d=\x22M8.53 16.1\
+1a6 6 0 0 1 6.95\
+ 0\x22></path><line\
+ x1=\x2212\x22 y1=\x2220\x22\
+ x2=\x2212.01\x22 y2=\x22\
+20\x22></line></svg\
+>\
+\x00\x00\x01\x89\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-refresh-cw\x22>\
+<polyline points\
+=\x2223 4 23 10 17 \
+10\x22></polyline><\
+polyline points=\
+\x221 20 1 14 7 14\x22\
+></polyline><pat\
+h d=\x22M3.51 9a9 9\
+ 0 0 1 14.85-3.3\
+6L23 10M1 14l4.6\
+4 4.36A9 9 0 0 0\
+ 20.49 15\x22></pat\
+h></svg>\
+\x00\x00\x01\x8a\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-wifi\x22><path \
+d=\x22M5 12.55a11 1\
+1 0 0 1 14.08 0\x22\
+></path><path d=\
+\x22M1.42 9a16 16 0\
+ 0 1 21.16 0\x22></\
+path><path d=\x22M8\
+.53 16.11a6 6 0 \
+0 1 6.95 0\x22></pa\
+th><line x1=\x2212\x22\
+ y1=\x2220\x22 x2=\x2212.\
+01\x22 y2=\x2220\x22></li\
+ne></svg>\
+\x00\x00\x01\x91\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-x-octagon\x22\
+><polygon points\
+=\x227.86 2 16.14 2\
+ 22 7.86 22 16.1\
+4 16.14 22 7.86 \
+22 2 16.14 2 7.8\
+6 7.86 2\x22></poly\
+gon><line x1=\x2215\
+\x22 y1=\x229\x22 x2=\x229\x22 \
+y2=\x2215\x22></line><\
+line x1=\x229\x22 y1=\x22\
+9\x22 x2=\x2215\x22 y2=\x221\
+5\x22></line></svg>\
+\
+\x00\x00\x01\x8b\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-maximize-2\
+\x22><polyline poin\
+ts=\x2215 3 21 3 21\
+ 9\x22></polyline><\
+polyline points=\
+\x229 21 3 21 3 15\x22\
+></polyline><lin\
+e x1=\x2221\x22 y1=\x223\x22\
+ x2=\x2214\x22 y2=\x2210\x22\
+></line><line x1\
+=\x223\x22 y1=\x2221\x22 x2=\
+\x2210\x22 y2=\x2214\x22></l\
+ine></svg>\
+\x00\x00\x01B\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-video\x22><poly\
+gon points=\x2223 7\
+ 16 12 23 17 23 \
+7\x22></polygon><re\
+ct x=\x221\x22 y=\x225\x22 w\
+idth=\x2215\x22 height\
+=\x2214\x22 rx=\x222\x22 ry=\
+\x222\x22></rect></svg\
+>\
+\x00\x00\x01G\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-home\x22><pat\
+h d=\x22M3 9l9-7 9 \
+7v11a2 2 0 0 1-2\
+ 2H5a2 2 0 0 1-2\
+-2z\x22></path><pol\
+yline points=\x229 \
+22 9 12 15 12 15\
+ 22\x22></polyline>\
+</svg>\
+\x00\x00\x01\x90\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-folder-plu\
+s\x22><path d=\x22M22 \
+19a2 2 0 0 1-2 2\
+H4a2 2 0 0 1-2-2\
+V5a2 2 0 0 1 2-2\
+h5l2 3h9a2 2 0 0\
+ 1 2 2z\x22></path>\
+<line x1=\x2212\x22 y1\
+=\x2211\x22 x2=\x2212\x22 y2\
+=\x2217\x22></line><li\
+ne x1=\x229\x22 y1=\x2214\
+\x22 x2=\x2215\x22 y2=\x2214\
+\x22></line></svg>\
+\x00\x00\x01/\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-search\x22><c\
+ircle cx=\x2211\x22 cy\
+=\x2211\x22 r=\x228\x22></ci\
+rcle><line x1=\x222\
+1\x22 y1=\x2221\x22 x2=\x221\
+6.65\x22 y2=\x2216.65\x22\
+></line></svg>\
+\x00\x00\x01L\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-book-open\x22><\
+path d=\x22M2 3h6a4\
+ 4 0 0 1 4 4v14a\
+3 3 0 0 0-3-3H2z\
+\x22></path><path d\
+=\x22M22 3h-6a4 4 0\
+ 0 0-4 4v14a3 3 \
+0 0 1 3-3h7z\x22></\
+path></svg>\
+\x00\x00\x01\x15\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-zap\x22><poly\
+gon points=\x2213 2\
+ 3 14 12 14 11 2\
+2 21 10 12 10 13\
+ 2\x22></polygon></\
+svg>\
+\x00\x00\x01/\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-power\x22><pa\
+th d=\x22M18.36 6.6\
+4a9 9 0 1 1-12.7\
+3 0\x22></path><lin\
+e x1=\x2212\x22 y1=\x222\x22\
+ x2=\x2212\x22 y2=\x2212\x22\
+></line></svg>\
+\x00\x00\x01q\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-delete\x22><p\
+ath d=\x22M21 4H8l-\
+7 8 7 8h13a2 2 0\
+ 0 0 2-2V6a2 2 0\
+ 0 0-2-2z\x22></pat\
+h><line x1=\x2218\x22 \
+y1=\x229\x22 x2=\x2212\x22 y\
+2=\x2215\x22></line><l\
+ine x1=\x2212\x22 y1=\x22\
+9\x22 x2=\x2218\x22 y2=\x221\
+5\x22></line></svg>\
+\
+\x00\x00\x01\x8f\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-x-octagon\x22><\
+polygon points=\x22\
+7.86 2 16.14 2 2\
+2 7.86 22 16.14 \
+16.14 22 7.86 22\
+ 2 16.14 2 7.86 \
+7.86 2\x22></polygo\
+n><line x1=\x2215\x22 \
+y1=\x229\x22 x2=\x229\x22 y2\
+=\x2215\x22></line><li\
+ne x1=\x229\x22 y1=\x229\x22\
+ x2=\x2215\x22 y2=\x2215\x22\
+></line></svg>\
+\x00\x00\x02\x5c\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-sliders\x22><li\
+ne x1=\x224\x22 y1=\x2221\
+\x22 x2=\x224\x22 y2=\x2214\x22\
+></line><line x1\
+=\x224\x22 y1=\x2210\x22 x2=\
+\x224\x22 y2=\x223\x22></lin\
+e><line x1=\x2212\x22 \
+y1=\x2221\x22 x2=\x2212\x22 \
+y2=\x2212\x22></line><\
+line x1=\x2212\x22 y1=\
+\x228\x22 x2=\x2212\x22 y2=\x22\
+3\x22></line><line \
+x1=\x2220\x22 y1=\x2221\x22 \
+x2=\x2220\x22 y2=\x2216\x22>\
+</line><line x1=\
+\x2220\x22 y1=\x2212\x22 x2=\
+\x2220\x22 y2=\x223\x22></li\
+ne><line x1=\x221\x22 \
+y1=\x2214\x22 x2=\x227\x22 y\
+2=\x2214\x22></line><l\
+ine x1=\x229\x22 y1=\x228\
+\x22 x2=\x2215\x22 y2=\x228\x22\
+></line><line x1\
+=\x2217\x22 y1=\x2216\x22 x2\
+=\x2223\x22 y2=\x2216\x22></\
+line></svg>\
+\x00\x00\x01o\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22red\x22 str\
+oke-width=\x222\x22 st\
+roke-linecap=\x22ro\
+und\x22 stroke-line\
+join=\x22round\x22 cla\
+ss=\x22feather feat\
+her-delete\x22><pat\
+h d=\x22M21 4H8l-7 \
+8 7 8h13a2 2 0 0\
+ 0 2-2V6a2 2 0 0\
+ 0-2-2z\x22></path>\
+<line x1=\x2218\x22 y1\
+=\x229\x22 x2=\x2212\x22 y2=\
+\x2215\x22></line><lin\
+e x1=\x2212\x22 y1=\x229\x22\
+ x2=\x2218\x22 y2=\x2215\x22\
+></line></svg>\
+\x00\x00\x01D\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-video\x22><po\
+lygon points=\x2223\
+ 7 16 12 23 17 2\
+3 7\x22></polygon><\
+rect x=\x221\x22 y=\x225\x22\
+ width=\x2215\x22 heig\
+ht=\x2214\x22 rx=\x222\x22 r\
+y=\x222\x22></rect></s\
+vg>\
+\x00\x00\x03\xee\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 width=\x2210\
+0\x22 height=\x22100\x22 \
+viewBox=\x220 0 24 \
+24\x22 fill=\x22none\x22 \
+stroke=\x22white\x22 s\
+troke-width=\x222\x22 \
+stroke-linecap=\x22\
+round\x22 stroke-li\
+nejoin=\x22round\x22 c\
+lass=\x22feather fe\
+ather-settings\x22>\
+<circle cx=\x2212\x22 \
+cy=\x2212\x22 r=\x223\x22></\
+circle><path d=\x22\
+M19.4 15a1.65 1.\
+65 0 0 0 .33 1.8\
+2l.06.06a2 2 0 0\
+ 1 0 2.83 2 2 0 \
+0 1-2.83 0l-.06-\
+.06a1.65 1.65 0 \
+0 0-1.82-.33 1.6\
+5 1.65 0 0 0-1 1\
+.51V21a2 2 0 0 1\
+-2 2 2 2 0 0 1-2\
+-2v-.09A1.65 1.6\
+5 0 0 0 9 19.4a1\
+.65 1.65 0 0 0-1\
+.82.33l-.06.06a2\
+ 2 0 0 1-2.83 0 \
+2 2 0 0 1 0-2.83\
+l.06-.06a1.65 1.\
+65 0 0 0 .33-1.8\
+2 1.65 1.65 0 0 \
+0-1.51-1H3a2 2 0\
+ 0 1-2-2 2 2 0 0\
+ 1 2-2h.09A1.65 \
+1.65 0 0 0 4.6 9\
+a1.65 1.65 0 0 0\
+-.33-1.82l-.06-.\
+06a2 2 0 0 1 0-2\
+.83 2 2 0 0 1 2.\
+83 0l.06.06a1.65\
+ 1.65 0 0 0 1.82\
+.33H9a1.65 1.65 \
+0 0 0 1-1.51V3a2\
+ 2 0 0 1 2-2 2 2\
+ 0 0 1 2 2v.09a1\
+.65 1.65 0 0 0 1\
+ 1.51 1.65 1.65 \
+0 0 0 1.82-.33l.\
+06-.06a2 2 0 0 1\
+ 2.83 0 2 2 0 0 \
+1 0 2.83l-.06.06\
+a1.65 1.65 0 0 0\
+-.33 1.82V9a1.65\
+ 1.65 0 0 0 1.51\
+ 1H21a2 2 0 0 1 \
+2 2 2 2 0 0 1-2 \
+2h-.09a1.65 1.65\
+ 0 0 0-1.51 1z\x22>\
+</path></svg>\
+"
+
+qt_resource_name = b"\
+\x00\x05\
+\x00o\xa6S\
+\x00i\
+\x00c\x00o\x00n\x00s\
+\x00\x0a\
+\x0ac\x90\x83\
+\x00r\
+\x00e\x00s\x00s\x00o\x00u\x00r\x00c\x00e\x00s\
+\x00\x11\
+\x01\xe4\xc2\x07\
+\x00f\
+\x00i\x00l\x00e\x00-\x00p\x00l\x00u\x00s\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\
+\x00\x14\
+\x08\xa1\x9b\xa7\
+\x00r\
+\x00e\x00f\x00r\x00e\x00s\x00h\x00-\x00c\x00w\x00_\x00w\x00h\x00i\x00t\x00e\x00.\
+\x00s\x00v\x00g\
+\x00\x0c\
+\x05[,\x07\
+\x00h\
+\x00o\x00m\x00e\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x11\
+\x06]\x14\x07\
+\x00c\
+\x00o\x00n\x00n\x00e\x00c\x00t\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\
+\x00\x0c\
+\x07\xdb\x9e\x07\
+\x00t\
+\x00o\x00o\x00l\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0e\
+\x05\xba\x9c\xe7\
+\x00p\
+\x00l\x00a\x00y\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x0c\
+\x06P\xc8\x07\
+\x00p\
+\x00l\x00u\x00s\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x10\
+\x0e\xa0\xfa\xe7\
+\x00s\
+\x00e\x00t\x00t\x00i\x00n\x00g\x00s\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0e\
+\x076\x9c\xe7\
+\x00p\
+\x00l\x00u\x00s\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x0e\
+\x0cd\x9f\xe7\
+\x00t\
+\x00o\x00o\x00l\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x0c\
+\x06RD\x07\
+\x00p\
+\x00l\x00a\x00y\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x11\
+\x00\x94\xa6\xe7\
+\x00a\
+\x00r\x00c\x00h\x00i\x00v\x00e\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\
+\x00\x0f\
+\x0b7Q'\
+\x00m\
+\x00i\x00n\x00u\x00s\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x0d\
+\x06l\xcb\xc7\
+\x00p\
+\x00o\x00w\x00e\x00r\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x16\
+\x00\x18>g\
+\x00f\
+\x00o\x00l\x00d\x00e\x00r\x00-\x00m\x00i\x00n\x00u\x00s\x00_\x00w\x00h\x00i\x00t\
+\x00e\x00.\x00s\x00v\x00g\
+\x00\x0e\
+\x05\xb0\x9c\xe7\
+\x00p\
+\x00l\x00a\x00n\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x11\
+\x08~?\x87\
+\x00s\
+\x00l\x00i\x00d\x00e\x00r\x00s\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\
+\x00\x14\
+\x05\x9d!\x87\
+\x00d\
+\x00i\x00s\x00c\x00o\x00n\x00n\x00e\x00c\x00t\x00_\x00w\x00h\x00i\x00t\x00e\x00.\
+\x00s\x00v\x00g\
+\x00\x14\
+\x07\x17\xea\xa7\
+\x00f\
+\x00o\x00l\x00d\x00e\x00r\x00-\x00m\x00i\x00n\x00u\x00s\x00_\x00r\x00e\x00d\x00.\
+\x00s\x00v\x00g\
+\x00\x13\
+\x03@\x93\x87\
+\x00f\
+\x00i\x00l\x00e\x00-\x00p\x00l\x00u\x00s\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\
+\x00v\x00g\
+\x00\x10\
+\x08)\xaf\xc7\
+\x00m\
+\x00a\x00x\x00i\x00m\x00i\x00z\x00e\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0f\
+\x0bWn'\
+\x00a\
+\x00r\x00c\x00h\x00i\x00v\x00e\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0b\
+\x09\xb6V\x07\
+\x00z\
+\x00a\x00p\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x13\
+\x05\xdaz'\
+\x00f\
+\x00o\x00l\x00d\x00e\x00r\x00-\x00p\x00l\x00u\x00s\x00_\x00r\x00e\x00d\x00.\x00s\
+\x00v\x00g\
+\x00\x0e\
+\x0f\xa6pg\
+\x00s\
+\x00e\x00a\x00r\x00c\x00h\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0d\
+\x00\xbc\xc9\xc7\
+\x00m\
+\x00i\x00n\x00u\x00s\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0c\
+\x07\x86\xcc\x07\
+\x00s\
+\x00a\x00v\x00e\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0e\
+\x012\x9fG\
+\x00s\
+\x00a\x00v\x00e\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x12\
+\x08\xe2g\xa7\
+\x00d\
+\x00i\x00s\x00c\x00o\x00n\x00n\x00e\x00c\x00t\x00_\x00r\x00e\x00d\x00.\x00s\x00v\
+\x00g\
+\x00\x12\
+\x05\xffc\x07\
+\x00r\
+\x00e\x00f\x00r\x00e\x00s\x00h\x00-\x00c\x00w\x00_\x00r\x00e\x00d\x00.\x00s\x00v\
+\x00g\
+\x00\x0f\
+\x02!\xa7\x87\
+\x00c\
+\x00o\x00n\x00n\x00e\x00c\x00t\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0e\
+\x06l\x9f\x87\
+\x00s\
+\x00t\x00o\x00p\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x12\
+\x0eU@\x07\
+\x00m\
+\x00a\x00x\x00i\x00m\x00i\x00z\x00e\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\
+\x00g\
+\x00\x0d\
+\x01B\xd1\xe7\
+\x00v\
+\x00i\x00d\x00e\x00o\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0e\
+\x0c\xd2\x9a\xe7\
+\x00h\
+\x00o\x00m\x00e\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x15\
+\x0d\x88\xbb\xe7\
+\x00f\
+\x00o\x00l\x00d\x00e\x00r\x00-\x00p\x00l\x00u\x00s\x00_\x00w\x00h\x00i\x00t\x00e\
+\x00.\x00s\x00v\x00g\
+\x00\x10\
+\x01\x8e\xef\x07\
+\x00s\
+\x00e\x00a\x00r\x00c\x00h\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x0c\
+\x06RR\x07\
+\x00p\
+\x00l\x00a\x00n\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0d\
+\x01\xac\x83'\
+\x00z\
+\x00a\x00p\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x0f\
+\x0b9\x5c\x87\
+\x00p\
+\x00o\x00w\x00e\x00r\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x10\
+\x09\xec1\x87\
+\x00d\
+\x00e\x00l\x00e\x00t\x00e\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x0c\
+\x07\xe1\x96\x07\
+\x00s\
+\x00t\x00o\x00p\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0f\
+\x07\xef\x80\xa7\
+\x00s\
+\x00l\x00i\x00d\x00e\x00r\x00s\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0e\
+\x00\xee\x16\xa7\
+\x00d\
+\x00e\x00l\x00e\x00t\x00e\x00_\x00r\x00e\x00d\x00.\x00s\x00v\x00g\
+\x00\x0f\
+\x05/r\xc7\
+\x00v\
+\x00i\x00d\x00e\x00o\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\x00g\
+\x00\x12\
+\x07\x08m\x07\
+\x00s\
+\x00e\x00t\x00t\x00i\x00n\x00g\x00s\x00_\x00w\x00h\x00i\x00t\x00e\x00.\x00s\x00v\
+\x00g\
+"
+
+qt_resource_struct = b"\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00\x01\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00\x02\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\x10\x00\x02\x00\x00\x00\x01\x00\x00\x00\x03\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00.\x00\x00\x00\x04\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x02\x18\x00\x00\x00\x00\x00\x01\x00\x00\x15\x07\
+\x00\x00\x01\x9c[\xad\xfb\xcb\
+\x00\x00\x01\xac\x00\x00\x00\x00\x00\x01\x00\x00\x11j\
+\x00\x00\x01\x9c[\xad\xfb\xca\
+\x00\x00\x03\xd0\x00\x00\x00\x00\x00\x01\x00\x00&<\
+\x00\x00\x01\x9c{L\xd1C\
+\x00\x00\x06V\x00\x00\x00\x00\x00\x01\x00\x00A\x1b\
+\x00\x00\x01\x9c[\xad\xfb\xca\
+\x00\x00\x04\x0e\x00\x00\x00\x00\x00\x01\x00\x00(\xc3\
+\x00\x00\x01\x9c[\xad\xfb\xcc\
+\x00\x00\x04\xf4\x00\x00\x00\x00\x00\x01\x00\x002\xbf\
+\x00\x00\x01\x9c[\xad\xfb\xce\
+\x00\x00\x05f\x00\x00\x00\x00\x00\x01\x00\x006\xe4\
+\x00\x00\x01\x9c]h\x7f\xa4\
+\x00\x00\x05\xaa\x00\x00\x00\x00\x00\x01\x00\x009g\
+\x00\x00\x01\x9c[\xad\xfb\xce\
+\x00\x00\x00*\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\
+\x00\x00\x01\x9c[\xad\xfb\xca\
+\x00\x00\x04\x84\x00\x00\x00\x00\x00\x01\x00\x00.\x0d\
+\x00\x00\x01\x9c{M8\x90\
+\x00\x00\x02\xf0\x00\x00\x00\x00\x00\x01\x00\x00\x1d\xc1\
+\x00\x00\x01\x9c[\xad\xfb\xca\
+\x00\x00\x06x\x00\x00\x00\x00\x00\x01\x00\x00B\x8e\
+\x00\x00\x01\x9c[\xad\xfb\xce\
+\x00\x00\x00\x80\x00\x00\x00\x00\x00\x01\x00\x00\x03;\
+\x00\x00\x01\x9c[\xad\xfb\xcb\
+\x00\x00\x02\x94\x00\x00\x00\x00\x00\x01\x00\x00\x1a#\
+\x00\x00\x01\x9c{M[\xbb\
+\x00\x00\x02J\x00\x00\x00\x00\x00\x01\x00\x00\x16o\
+\x00\x00\x01\x9c[\xad\xfb\xcc\
+\x00\x00\x00\xe4\x00\x00\x00\x00\x00\x01\x00\x00\x07\x93\
+\x00\x00\x01\x9c[\xad\xfb\xcc\
+\x00\x00\x03\x82\x00\x00\x00\x00\x00\x01\x00\x00#y\
+\x00\x00\x01\x9c[\xad\xfb\xcb\
+\x00\x00\x04Z\x00\x00\x00\x00\x00\x01\x00\x00,\x80\
+\x00\x00\x01\x9c[\xad\xfb\xcc\
+\x00\x00\x01\x06\x00\x00\x00\x00\x00\x01\x00\x00\x08\x99\
+\x00\x00\x01\x9c{L\x8a\xbe\
+\x00\x00\x01\x8e\x00\x00\x00\x00\x00\x01\x00\x00\x10f\
+\x00\x00\x01\x9c[\xad\xfb\xcc\
+\x00\x00\x05\x8c\x00\x00\x00\x00\x00\x01\x00\x008\x17\
+\x00\x00\x01\x9c[\xad\xfb\xcb\
+\x00\x00\x00\x9e\x00\x00\x00\x00\x00\x01\x00\x00\x04\x84\
+\x00\x00\x01\x9c{MN@\
+\x00\x00\x04\xa8\x00\x00\x00\x00\x00\x01\x00\x00/\x9b\
+\x00\x00\x01\x9c[\xad\xfb\xcd\
+\x00\x00\x01\xf8\x00\x00\x00\x00\x00\x01\x00\x00\x13\xd6\
+\x00\x00\x01\x9c[\xad\xfb\xcc\
+\x00\x00\x06\x9c\x00\x00\x00\x00\x00\x01\x00\x00C\xd6\
+\x00\x00\x01\x9c[\xad\xfb\xcd\
+\x00\x00\x02\xc2\x00\x00\x00\x00\x00\x01\x00\x00\x1c[\
+\x00\x00\x01\x9c[\xad\xfb\xca\
+\x00\x00\x01J\x00\x00\x00\x00\x00\x01\x00\x00\x0d\xb6\
+\x00\x00\x01\x9c{L\x9f\xbf\
+\x00\x00\x03\xf0\x00\x00\x00\x00\x00\x01\x00\x00'>\
+\x00\x00\x01\x9c[\xad\xfb\xcc\
+\x00\x00\x00\xc6\x00\x00\x00\x00\x00\x01\x00\x00\x06\x14\
+\x00\x00\x01\x9c[\xad\xfb\xcd\
+\x00\x00\x06\x14\x00\x00\x00\x00\x00\x01\x00\x00=(\
+\x00\x00\x01\x9c[\xad\xfb\xcd\
+\x00\x00\x062\x00\x00\x00\x00\x00\x01\x00\x00>\xbb\
+\x00\x00\x01\x9c[\xad\xfb\xcd\
+\x00\x00\x03\x1c\x00\x00\x00\x00\x00\x01\x00\x00\x1fo\
+\x00\x00\x01\x9c{YD\x04\
+\x00\x00\x02l\x00\x00\x00\x00\x00\x01\x00\x00\x17\xc1\
+\x00\x00\x01\x9c[\xad\xfb\xcd\
+\x00\x00\x00R\x00\x00\x00\x00\x00\x01\x00\x00\x01\xac\
+\x00\x00\x01\x9c[\xad\xfb\xcc\
+\x00\x00\x040\x00\x00\x00\x00\x00\x01\x00\x00*J\
+\x00\x00\x01\x9c{Mj\x02\
+\x00\x00\x03f\x00\x00\x00\x00\x00\x01\x00\x00\x22b\
+\x00\x00\x01\x9c[\xad\xfb\xce\
+\x00\x00\x05\xee\x00\x00\x00\x00\x00\x01\x00\x00;\xb3\
+\x00\x00\x01\x9c[\xad\xfb\xca\
+\x00\x00\x01\xd4\x00\x00\x00\x00\x00\x01\x00\x00\x12\xd2\
+\x00\x00\x01\x9c{L\xbfx\
+\x00\x00\x05\xca\x00\x00\x00\x00\x00\x01\x00\x00:\x80\
+\x00\x00\x01\x9c[\xad\xfb\xcc\
+\x00\x00\x03B\x00\x00\x00\x00\x00\x01\x00\x00 \xfc\
+\x00\x00\x01\x9c[\xad\xfb\xca\
+\x00\x00\x01l\x00\x00\x00\x00\x00\x01\x00\x00\x0e\xe5\
+\x00\x00\x01\x9c[\xad\xfb\xcd\
+\x00\x00\x05\x14\x00\x00\x00\x00\x00\x01\x00\x004\x05\
+\x00\x00\x01\x9c[\xad\xfb\xcb\
+\x00\x00\x056\x00\x00\x00\x00\x00\x01\x00\x005P\
+\x00\x00\x01\x9c[\xad\xfb\xcb\
+\x00\x00\x04\xca\x00\x00\x00\x00\x00\x01\x00\x0010\
+\x00\x00\x01\x9c{Yn\xdb\
+\x00\x00\x01$\x00\x00\x00\x00\x00\x01\x00\x00\x09\xc6\
+\x00\x00\x01\x9c[\xad\xfb\xcd\
+\x00\x00\x03\xae\x00\x00\x00\x00\x00\x01\x00\x00%\x0b\
+\x00\x00\x01\x9c]hg\x94\
+"
+
+def qInitResources():
+    QtCore.qRegisterResourceData(0x03, qt_resource_struct, qt_resource_name, qt_resource_data)
+
+def qCleanupResources():
+    QtCore.qUnregisterResourceData(0x03, qt_resource_struct, qt_resource_name, qt_resource_data)
+
+qInitResources()

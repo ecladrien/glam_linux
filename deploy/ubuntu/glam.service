@@ -1,0 +1,25 @@
+[Unit]
+Description=GLAM application
+After=network-online.target graphical.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=__USER__
+WorkingDirectory=__PROJECT_DIR__
+Environment=PYTHONUNBUFFERED=1
+Environment=QT_QPA_PLATFORM=xcb
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=/home/__USER__/.Xauthority
+EnvironmentFile=-__PROJECT_DIR__/deploy/ubuntu/glam.env
+ExecStart=__PROJECT_DIR__/deploy/ubuntu/run_glam.sh
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ReadWritePaths=__PROJECT_DIR__/logs __PROJECT_DIR__/data
+UMask=0027
+
+[Install]
+WantedBy=graphical.target
