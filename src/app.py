@@ -1,5 +1,7 @@
 import sys
+from pathlib import Path
 from PySide6.QtCore import Qt
+from PySide6.QtGui import QIcon
 from PySide6.QtWidgets import QApplication
 from .utils.logging_config import setup_logging
 from .config.manager import Config
@@ -40,6 +42,19 @@ def main() -> None:
         QApplication.setAttribute(Qt.ApplicationAttribute.AA_DontUseNativeDialogs, True)
         # Initialiser l'application Qt
         app = QApplication(sys.argv)
+        base_dir = Path(__file__).resolve().parent.parent
+        icon_candidates = [
+            base_dir / "ressources" / "img" / "Icone_run.ico",
+            base_dir / "ressources" / "img" / "Icon_run.png",
+        ]
+        for icon_path in icon_candidates:
+            if icon_path.exists():
+                app.setWindowIcon(QIcon(str(icon_path)))
+                logger.info("Application icon loaded from %s", icon_path)
+                break
+        else:
+            logger.warning("No application icon found in expected locations")
+
         _apply_dialog_dark_theme(app)
 
         config = Config.load_default()
@@ -55,6 +70,7 @@ def main() -> None:
             window = MainWindow(config, fullscreen=fullscreen_mode)
         except TypeError:
             window = MainWindow()
+        window.setWindowIcon(app.windowIcon())
 
         if fullscreen_mode:
             window.showFullScreen()
