@@ -5,7 +5,10 @@
         "fullscreen": true
     },
     "hardware": {
-        "arduino_port": "/dev/ttyACM0"
+        "arduino_port": "/dev/ttyACM0",
+        "serial_baudrate": 115200,
+        "serial_timeout": 2.0,
+        "esp32_boot_delay": 2.0
     },
     "network": {
         "camera_ip": "192.168.1.169",

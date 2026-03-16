@@ -9,7 +9,7 @@ Ce README est orienté **déploiement Ubuntu** avec bonnes pratiques (venv, serv
 - Ubuntu 22.04+ (desktop recommandé pour l'interface graphique)
 - Compte utilisateur non-root avec `sudo`
 - Python 3.10+ recommandé
-- Accès matériel optionnel : caméra RTSP/ONVIF, Arduino
+- Accès matériel optionnel : caméra RTSP/ONVIF, ESP32 WROOM
 
 > GLAM est une application GUI. Pour un démarrage automatique, ciblez une session graphique active (`graphical.target`).
 
@@ -35,7 +35,7 @@ Ce script :
 - crée le virtualenv `.venv`,
 - installe les dépendances Python de `requirements.txt`,
 - prépare `logs/` et `data/`,
-- ajoute l'utilisateur au groupe `dialout` (Arduino/USB série).
+- ajoute l'utilisateur au groupe `dialout` (ESP32/USB série).
 
 Si `dialout` a été ajouté, reconnectez votre session.
 
@@ -113,5 +113,5 @@ pytest -q
 
 - Erreur Qt/X11 (`xcb`) : vérifier la session graphique et `DISPLAY=:0`
 - Caméra non détectée : valider IP/réseau/ports RTSP-ONVIF
-- Arduino indisponible : vérifier port (`/dev/ttyACM0`) et groupe `dialout`
+- ESP32 indisponible : vérifier port (`/dev/ttyACM0` ou `/dev/ttyUSB0`), groupe `dialout`, et le firmware série ESP32
 - Pas de démarrage service : consulter `journalctl -u glam.service -n 200`

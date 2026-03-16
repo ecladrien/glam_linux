@@ -20,6 +20,9 @@ class DisplayConfig(BaseModel):
 
 class HardwareConfig(BaseModel):
     arduino_port: str = "/dev/ttyACM0" #"/dev/cu.usbmodem1101"
+    serial_baudrate: int = 115200
+    serial_timeout: float = 2.0
+    esp32_boot_delay: float = 2.0
 
 class NetworkConfig(BaseModel):
     camera_ip: str = "192.168.1.188"
